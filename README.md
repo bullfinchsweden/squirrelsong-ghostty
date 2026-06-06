@@ -7,7 +7,7 @@ My own custom made Squirrelsong color schemes for Ghostty.
 
 * [Squirrelsong color scheme](https://github.com/sapegin/squirrelsong)<br/>
 
-Places file in ~/.config/ghostty/themes/ (create folders if non-existing).
+Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Squirrelsong*
 

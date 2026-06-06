@@ -1,7 +1,7 @@
 # Squirrelsong Ghostty
 My own custom made Squirrelsong color scheme for Ghostty.
 
-<img width="103" height="103" alt="Squirrel" src="https://github.com/user-attachments/assets/9f6301e4-3b20-46f3-9b57-3544dd0fb5c1" /><br/>
+<img width="206" height="103" alt="Squirrels" src="https://github.com/user-attachments/assets/0d643809-aa13-41fa-8359-6f22eb6f1efd" /><br/>
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 

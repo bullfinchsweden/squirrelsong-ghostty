@@ -17,5 +17,6 @@ Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Squirrelsong Purple*
 
-<img width="785" height="398" alt="SquirrelsongColors4" src="https://github.com/user-attachments/assets/7f239759-cebf-4c4a-ae10-a15728861fd6" />
+<img width="260" height="83" alt="SquirrelsongColors3" src="https://github.com/user-attachments/assets/7827e5bc-417b-42cc-a756-5286bf7737d3" />br/>
 
+<img width="785" height="398" alt="SquirrelsongColors4" src="https://github.com/user-attachments/assets/7f239759-cebf-4c4a-ae10-a15728861fd6" />br/>

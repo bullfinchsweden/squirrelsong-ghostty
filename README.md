@@ -1,5 +1,5 @@
 # Squirrelsong Ghostty
-My own custom made Squirrelsong color scheme for Ghostty.
+My own custom made Squirrelsong color schemes for Ghostty.
 
 <img width="206" height="103" alt="Squirrels" src="https://github.com/user-attachments/assets/0d643809-aa13-41fa-8359-6f22eb6f1efd" /><br/>
 
@@ -7,7 +7,7 @@ My own custom made Squirrelsong color scheme for Ghostty.
 
 * [Squirrelsong color scheme](https://github.com/sapegin/squirrelsong)<br/>
 
-Place file in ~/.config/ghostty/themes/ (create folders if non-existing).
+Places file in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Squirrelsong*
 

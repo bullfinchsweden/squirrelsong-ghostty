@@ -1,7 +1,7 @@
 # Squirrelsong Ghostty
 My own custom made Squirrelsong color schemes for Ghostty.
 
-<img width="206" height="103" alt="Squirrels" src="https://github.com/user-attachments/assets/0d643809-aa13-41fa-8359-6f22eb6f1efd" /><br/>
+<img src="Images/Squirrels.png"><br/>
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
@@ -11,12 +11,12 @@ Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
 
 *Squirrelsong*
 
-<img width="260" height="83" alt="SquirrelsongColors1" src="https://github.com/user-attachments/assets/4114152f-b6dc-4418-a34f-ef5ff0530b06" /><br/>
+<img src="Images/SquirrelsongColors1.png" width="260" height="83" /><br/>
 
-<img width="785" height="398" alt="SquirrelsongColors2" src="https://github.com/user-attachments/assets/abd1169f-ee13-4929-b6c5-a7faae1bb3e0" /><br/>
+<img src="Images/SquirrelsongColors2.png" width="785" height="398" /><br/>
 
 *Squirrelsong Purple*
 
-<img width="260" height="83" alt="SquirrelsongColors3" src="https://github.com/user-attachments/assets/7827e5bc-417b-42cc-a756-5286bf7737d3" /><br/>
+<img src="Images/SquirrelsongColors3.png" width="260" height="83" /><br/>
 
-<img width="785" height="398" alt="SquirrelsongColors4" src="https://github.com/user-attachments/assets/7f239759-cebf-4c4a-ae10-a15728861fd6" /><br/>
+<img src="Images/SquirrelsongColors4.png" width="785" height="398" />

@@ -5,7 +5,7 @@ My own custom made Squirrelsong color schemes for Ghostty.
 
 * [Ghostty for macOS and Linux](https://ghostty.org/)
 
-* [Squirrelsong color scheme](https://github.com/sapegin/squirrelsong)<br/>
+* [Squirrelsong](https://github.com/sapegin/squirrelsong)<br/>
 
 Place files in ~/.config/ghostty/themes/ (create folders if non-existing).
 
